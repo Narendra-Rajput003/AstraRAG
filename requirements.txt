@@ -1,0 +1,23 @@
+langchain
+langchain-google-genai
+langchain-community
+langchain-experimental
+langchain-milvus
+google-generativeai
+pymilvus
+streamlit
+streamlit-chat
+unstructured[all-docs]
+presidio-anonymizer
+presidio-analyzer
+presidio-image-redactor
+cohere
+ragas
+datasets
+pandas
+bcrypt
+psycopg2-binary
+pyjwt
+pickle
+redis
+python-dotenv  # For loading .env
