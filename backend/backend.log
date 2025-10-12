@@ -1,0 +1,15 @@
+2025-10-09 23:39:20,263 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-09 23:39:20,536 - backend.security - WARNING - LangChain not available
+2025-10-09 23:43:18,465 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-09 23:43:18,563 - backend.security - WARNING - LangChain not available
+2025-10-09 23:44:26,685 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-09 23:44:26,711 - backend.security - WARNING - LangChain not available
+2025-10-09 23:59:49,410 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-09 23:59:49,443 - backend.security - WARNING - LangChain not available
+2025-10-09 23:59:49,446 - backend.auth - WARNING - pyotp not available, MFA disabled
+2025-10-10 00:02:42,327 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-10 00:02:42,357 - backend.security - WARNING - LangChain not available
+2025-10-10 00:02:42,359 - backend.auth - WARNING - pyotp not available, MFA disabled
+2025-10-10 00:31:47,014 - backend.security - WARNING - Presidio not available, PII anonymization disabled
+2025-10-10 00:31:47,033 - backend.security - WARNING - LangChain not available
+2025-10-10 00:31:47,034 - backend.auth - WARNING - pyotp not available, MFA disabled

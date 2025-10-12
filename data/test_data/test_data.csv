@@ -1,0 +1,4 @@
+question,ground_truth,answer,contexts
+"What is AstraRAG?","AstraRAG is a scalable RAG chatbot for secure knowledge management.","AstraRAG is a production-ready RAG system.","['AstraRAG is a scalable RAG chatbot.']"
+"How does authentication work?","It uses JWT tokens with RBAC.","Authentication is handled via JWT.","['JWT auth with RBAC.']"
+"What databases are used?","Milvus for vectors, PostgreSQL for users, Redis for caching.","Milvus, PostgreSQL, and Redis.","['Vector DB: Milvus, User DB: PostgreSQL.']"
